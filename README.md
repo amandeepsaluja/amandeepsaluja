@@ -11,3 +11,6 @@
 - 🌱 Currently on a Career Break.
 - 📖 Always learning something new.
 - ⚡ Fun fact: I have done 28 Skydives.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
