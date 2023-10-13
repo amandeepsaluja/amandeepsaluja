@@ -7,8 +7,6 @@
 
 ### About Me:
 
----
-
 - 💻 Data Analytics and Machine Learning enthusiast.
 - 🌱 Currently on a Career Break.
 - 📖 Always learning something new.
