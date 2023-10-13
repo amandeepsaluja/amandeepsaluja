@@ -13,4 +13,11 @@
 - ⚡ Fun fact: I have done 28 Skydives.
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 10 mins
+
+YAML   10 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
