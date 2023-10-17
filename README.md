@@ -19,7 +19,7 @@
   - [Mission: Impossible – Dead Reckoning Part One](https://www.imdb.com/title/tt9603212/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
 
 **I'm an Early 🐤** 
 
