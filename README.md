@@ -46,7 +46,7 @@ Sunday                   75 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
